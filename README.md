@@ -48,7 +48,18 @@ montre connectée.
 
 \- Inférence temps réel fonctionnelle sur microcontrôleur simulé
 
+## Démonstration
 
+### Signal PPG généré (propre, bruité, dérive)
+![Signal PPG](fig1.png)
+
+### Filtrage du signal
+![Filtrage](fig2.png)
+
+### Détection en temps réel sur ESP32-S3 (Wokwi)
+La LED s'allume automatiquement quand le signal est détecté comme corrompu :
+
+![LED allumée - signal corrompu](led-corrompu.png)
 
 \## Technologies
 

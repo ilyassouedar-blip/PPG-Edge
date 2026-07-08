@@ -59,7 +59,7 @@ montre connectée.
 ### Détection en temps réel sur ESP32-S3 (Wokwi)
 La LED s'allume automatiquement quand le signal est détecté comme corrompu :
 
-![LED allumée - signal corrompu](led-corrompu.png)
+![LED allumée - signal corrompu](wokwi-simulation.png)
 
 \## Technologies
 
